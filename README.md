@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Data Visualization Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This dashboard provides an various interactive visualization of the data obtained from an android app
+
+## Features
+
+### Physical Activity
+
+- This feature enables user to plot the data of physical activity observed over the participants of the experiment. The data is visualized with the help of a line chart of average physical activity in hours vs. particular day.
+
+### Sleeping Patterns
+
+- Sleeping pattern plots the data of sleeping hours observed in the duration of the experiment. This feature visualizes the data in the form of a line chart of average sleeping hours vs. particular day over the period of experiment.
+
+### Social Interactions
+
+- This feature plots histogram of the distribution of number of students and the daily hours spent on telephonic conversation. Using this feature, one might able to observe a general trend of the users' telephonic hours.
+
+### Mobility of The Users
+
+- This feature will provide a visualization of user density in a dynamic manner with a map overlay which will be plotted using date and time provided by the user. This feature will help user to make conclusion about the users movement with a particular timestamp.
 
 ## Available Scripts
 
@@ -38,33 +56,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
