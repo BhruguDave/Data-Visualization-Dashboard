@@ -107,5 +107,5 @@ import { Map, GoogleApiWrapper, Circle } from 'google-maps-react';
 }
  
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyAaq5NreaF039dYNL1uJpD2zbtlY5BGgIo'
+    apiKey: '' // Enter your API key
   })(HeatMap);
