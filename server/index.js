@@ -8,7 +8,7 @@ const assert = require('assert');
 const { mongo } = require("mongoose");
 
 const url = "mongodb://localhost:27017/mobility";
-
+// COMMENT
 const app = express();
 
 app.use(cors());
